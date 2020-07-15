@@ -22,7 +22,8 @@ An aia file attachment for the Android operating system,
 In addition to adding Bluetooth, which can be added from the design interface, which is in the form (edu.mit.appinventor.ble.aix)
 
 The logo and icon of appliction:
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/logo.png "icon")
+
+![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/social.png)
 
 
 Thanks ...
