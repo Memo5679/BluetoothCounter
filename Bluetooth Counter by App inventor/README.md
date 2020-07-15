@@ -4,8 +4,6 @@ This app was built to check social divergence during a pandemic, such as the vir
 Task when intren in Smart methods company
 
 
-A YouTube video made to experiment with the application in practice, illustrated in Arabic and a tour of the code Link:
-https://youtu.be/RmL_CR5_Kiw
 
 ![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/GIF%20Suspense%20for%20YouTube%20video.gif "YouTube video")
 
