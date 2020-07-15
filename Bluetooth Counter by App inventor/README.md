@@ -24,10 +24,6 @@ In addition to adding Bluetooth, which can be added from the design interface, w
 The logo and icon of appliction:
 ![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/logo.png "icon")
 
-In the beta version, the attempt was made to use ready-made add-ons on the site but it did not work well, except by using the external add-on
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/Beta%20version%20of%20the%20application%20before%20using%20an%20external%20extension.png "beta")
 
-Try before that on the Android Studio and PhoneGap platforms, but there were a lot of compatibility errors, so I turned here, and the disadvantage of this place is that it is only for the Android version
-
-Thanks for reading all this description if you complete it here :)
+Thanks ...
 
