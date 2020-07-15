@@ -1,11 +1,6 @@
 # Social-Spacing-with-MIT-App-Inventor
 This app was built to check social divergence during a pandemic, such as the viral epidemic in 2020, to be used in an exhibition hall or a wedding hall on tablets around the place to ensure that within the Bluetooth range there are no more than 10 people; Otherwise, a sound, vibration, and sentence will be sounded within the number of devices.
 
-Task when intren in Smart methods company
-
-
-
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/GIF%20Suspense%20for%20YouTube%20video.gif "YouTube video")
 
 A previous mission I did and helped me with this project: A tentative algorithm for a wedding hall with an epidemic
 https://github.com/MohammadYAmmar/Robot-used-for-wedding-halls-during-the-epidemic-to-alert
