@@ -18,7 +18,7 @@ The block was used as a program code to run it, three functions were used, and t
 video of the application on my phone in safe mode and dangerous mode:
 
 
-An apk file attachment for the Android operating system, as well as a zip file for each project in MIT App Inventor.
+An aia file attachment for the Android operating system,
 In addition to adding Bluetooth, which can be added from the design interface, which is in the form (edu.mit.appinventor.ble.aix)
 
 The logo and icon of appliction:
