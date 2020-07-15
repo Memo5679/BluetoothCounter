@@ -13,7 +13,7 @@ An external Bluetooth add-on and its file attachment were used, an alarm sound a
 
 The block was used as a program code to run it, three functions were used, and the properties of the parts that I used were like Bluetooth and the buttons, sound, vibration, and menu connectivity were used to display the devices and delay time, there was no need to add a loop to the scan because it remains running as long as you did not turn it off
 
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/Image%20of%20Blocks%20section%20to%20code.png "Blocks")
+![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/Image%20of%20Blocks%20section%20to%20code.png)
 
 
 Screenshots of the application on your tablet in safe mode and dangerous mode
