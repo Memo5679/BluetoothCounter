@@ -26,5 +26,4 @@ The logo and icon of appliction:
 ![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/social.png)
 
 
-Thanks ...
 
