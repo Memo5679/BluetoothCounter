@@ -15,7 +15,7 @@ The block was used as a program code to run it, three functions were used, and t
 
 ![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/Image%20of%20Blocks%20section%20to%20code.png)
 
-Video of this application on my phone in safe mode and dangerous mode:
+Video of this application on my phone in safe mode and dangerous mode: https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/video%20of%20this%20application%20on%20my%20phone.mp4
 
 
 An aia file attachment for the Android operating system,
