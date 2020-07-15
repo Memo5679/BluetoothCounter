@@ -15,12 +15,8 @@ The block was used as a program code to run it, three functions were used, and t
 
 ![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/Image%20of%20Blocks%20section%20to%20code.png)
 
+video of the application on my phone in safe mode and dangerous mode:
 
-Screenshots of the application on your tablet in safe mode and dangerous mode
-
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/Screenshot%20of%20application%20during%20safe%20mode.jpg "Screenshot 1")
-
-![alt text](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor/blob/master/Screenshot%20of%20the%20application%20during%20the%20dangerous%20situation.jpg "Screenshot 2")
 
 An apk file attachment for the Android operating system, as well as a zip file for each project in MIT App Inventor.
 In addition to adding Bluetooth, which can be added from the design interface, which is in the form (edu.mit.appinventor.ble.aix)
