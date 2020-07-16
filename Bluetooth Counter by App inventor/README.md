@@ -17,7 +17,7 @@ The block was used as a program code to run it, three functions were used, and t
 - Label1 mean = status.
 - Label2 mean = Level of social spacing.
 - Label5 mean = count number.
-- Label 8
+- Label6 mean = the number of users chosen 3 or 7.
 
 ![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/Image%20of%20Blocks%20section%20to%20code.png)
 
