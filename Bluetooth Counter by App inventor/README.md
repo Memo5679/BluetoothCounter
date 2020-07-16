@@ -6,7 +6,7 @@ This app was built to check social divergence during a pandemic, such as the vir
 A previous mission I did and helped me with this project: Algorithm for Social Distancing
 https://github.com/Memo5679/Algorithm-for-Social-Distancing-/blob/master/Algorithm%20for%20Social%20Distancing%20.pdf
 
-The design interface and what was used, I used the button to start the scan and stop to pause and switch to change between the number allowed during the Bluetooth range 3 or 10, and a list of devices that were found shows the Mac Study and after that.
+The design interface and what was used, I used the button to start the scan and stop to pause and switch to change between the number allowed during the Bluetooth range 3 or 7, and a list of devices that were found shows the Mac Study and after that.
 An external Bluetooth add-on and its file attachment were used, an alarm sound and the audio file attachment used, and an hour for delaying
 
 ![alt text](https://github.com/Memo5679/BluetoothCounter/blob/master/Bluetooth%20Counter%20by%20App%20inventor/Image%20of%20Designer%20section.png)
